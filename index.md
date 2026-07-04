@@ -6,6 +6,8 @@ Pianist Henrique Rabelo has performed in recitals and as a soloist with orchestr
 
 Henrique is a Doctor of Musical Arts Candidate under the guidance of Ksenia Nosikova at the University of Iowa, where he serves as Graduate Teaching Assistant teaching classes, applied piano lessons, organizing concerts and pedagogical activities, and working as a collaborative pianist. His research will focus on the piano works of Brazilian composer Almeida Prado. Henrique earned his Master of Music degree from the University of Wyoming (2023), and his Bachelor of Music degree from UNIRIO (2019), Rio de Janeiro.
 
+[Contact Me](/contact.html)
+
 ## Blog
 
 {% for post in site.posts %}
